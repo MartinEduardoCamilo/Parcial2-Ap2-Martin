@@ -19,8 +19,9 @@ namespace SegundoParcial.DAL
         //{
         //    modelBuilder.Entity<>().HasData(new 
         //    {
-                
+
         //    });
 
         //}
     }
+}
